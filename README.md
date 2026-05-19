@@ -13,5 +13,4 @@ Note: This mod is only a tool that helps bridge the gap between VR and BCMER. Wh
 
 </details>
 
-- This mod is required on all clients
 - This mod only adds VR Support to BCMER.
