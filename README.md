@@ -1,5 +1,5 @@
 # BCMER VR
-![Screenshot](https://softdiamond.net/BCMERAssets/vrbcmer.png)
+![Screenshot](https://softdiamond.net/BCMERAssets/vrbcmer2.png)
 
 - BCMER has a website! You can find it at [https://bcmer.softdiamond.net/](https://bcmer.softdiamond.net/)
 - BCMER has a API! You can find it at [https://bcmerapi.softdiamond.net/](https://bcmerapi.softdiamond.net/)
